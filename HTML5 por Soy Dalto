@@ -1,0 +1,5 @@
+a las cajas se les llama etiquetas o tags y se crean con los menores que mayor que
+    <etiqueta>Lo que esta adentro es un atributo "el valor del atributo esta entre comillas"</etiqueta>
+        Hay dos tipos de etiquetas: 1. las que se cierran solas porque no tienen atributos 2. Se abren y se cierran, tienen algo adentro
+
+HTML es solo la estructura, CSS es para que quede lindo
